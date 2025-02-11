@@ -14,7 +14,7 @@ For one reason or another, not all code is currently owned by this organization.
 - 2019 (unknown)
 - [2020](https://github.com/team6000robotics/2020)
 - [2021](https://github.com/Touchdown363/robotics-team6000-2021)
-- [2022-1](https://github.com/Touchdown363/-OUTDATED-VERSION-CHECK-THE-NEWER-ONE-Robotics-Programming-2022)&nbsp;&nbsp;&nbsp;[2022-2](https://github.com/Heborine/Robotics-Code-2022)
+- [2022-1 (private)](https://github.com/Touchdown363/-OUTDATED-VERSION-CHECK-THE-NEWER-ONE-Robotics-Programming-2022)&nbsp;&nbsp;&nbsp;[2022-2](https://github.com/Heborine/Robotics-Code-2022)
 - [2023](https://github.com/FIREBOTICS/2023-Robot)
 - [2024](https://github.com/FIREBOTICS/2024-Robot)
 - [2025](https://github.com/FIREBOTICS/2025-Robot)
